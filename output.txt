@@ -1,0 +1,39 @@
+Script started on 2021-12-18 16:22:10+00:00 [TERM="dumb" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+<Codher-Bootcamp-Johnson/unit-01-command-line-and-git-assessment-brendascode$ mkdir fodler    lder  1
+mkdir: cannot create directory ‘folder1’: File exists
+<Codher-Bootcamp-Johnson/unit-01-command-line-and-git-assessment-brendascode$ folder2
+
+Command 'folder2' not found, did you mean:
+
+  command 'folders' from deb mailutils-mh (1:3.7-2.1)
+  command 'folders' from deb mmh (0.4-2)
+  command 'folders' from deb nmh (1.7.1-6)
+  command 'folder' from deb mailutils-mh (1:3.7-2.1)
+  command 'folder' from deb mmh (0.4-2)
+  command 'folder' from deb nmh (1.7.1-6)
+
+Try: sudo apt install <deb name>
+
+<Codher-Bootcamp-Johnson/unit-01-command-line-and-git-assessment-brendascode$ mkdir fodler    lder2
+mkdir: cannot create directory ‘folder2’: File exists
+<Codher-Bootcamp-Johnson/unit-01-command-line-and-git-assessment-brendascode$ touch a file2.txt
+<Codher-Bootcamp-Johnson/unit-01-command-line-and-git-assessment-brendascode$ touch file2 1.te xt file2.txt file 3  3.txt
+<Codher-Bootcamp-Johnson/unit-01-command-line-and-git-assessment-brendascode$ mv file1.txt fodler    lder1
+<Codher-Bootcamp-Johnson/unit-01-command-line-and-git-assessment-brendascode$ mv file2.txt folder2
+<Codher-Bootcamp-Johnson/unit-01-command-line-and-git-assessment-brendascode$ cd folder1
+<ootcamp-Johnson/unit-01-command-line-and-git-assessment-brendascode/folder1$ ls
+file1.txt
+<ootcamp-Johnson/unit-01-command-line-and-git-assessment-brendascode/folder1$ pwd
+/mnt/c/Users/User/https:/github.com/Black-Codher-Bootcamp-Johnson/unit-01-command-line-and-git-assessment-brendascode/folder1
+<ootcamp-Johnson/unit-01-command-line-and-git-assessment-brendascode/folder1$ cd TERM=dumb script output.txt                           TERM=dumb script output.txt                           cd https://github.com/Black-Codher-B<sessment-brendascode/folder1$ cd cd https://github.com/Black-Codher-Bootcamp-                                       Johnson/unit-01-command-line-and-git-as<hub.com/Black-Codher-Bootcamp-Johnson/unit-01-command-line-and-git-assessment                                       -brendascode
+bash: cd: too many arguments
+<ootcamp-Johnson/unit-01-command-line-and-git-assessment-brendascode/folder1$ cd cd https://github.com/B<sessment-brendascode/folder1$ cd cd https://github.com/Black-Codher-Bootcamp-                          Johnson/unit-01-command-line-and-git-as<hub.com/Black-Codher-Bootcamp-Johnson/unit-01-command-line-and-git-assessment                                       -brendascode
+bash: cd: too many arguments
+<ootcamp-Johnson/unit-01-command-line-and-git-assessment-brendascode/folder1$ ../
+bash: ../: Is a directory
+<ootcamp-Johnson/unit-01-command-line-and-git-assessment-brendascode/folder1$ cd ../
+<Codher-Bootcamp-Johnson/unit-01-command-line-and-git-assessment-brendascode$ rm file3.txt
+<Codher-Bootcamp-Johnson/unit-01-command-line-and-git-assessment-brendascode$ exit
+exit
+
+Script done on 2021-12-18 16:34:45+00:00 [COMMAND_EXIT_CODE="0"]
